@@ -1,6 +1,7 @@
 # EasyHour-C-
 EasyHour Functional Test in C#
-
+![ScreenShot](https://github.com/phndavid13/EasyHour-CSharp/blob/master/Mapa%20de%20navegaci%C3%B3n/principal.JPG)
+![ScreenShot](https://github.com/phndavid13/EasyHour-CSharp/blob/master/Mapa%20de%20navegaci%C3%B3n/horarios.JPG)
 # Procedimiento para dar formato en excel a PDF generado por la Universidad ICESI
 Programa ReadExcel
 
