@@ -1,0 +1,28 @@
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\obj\Debug\Mundo.csproj.ResolveComReference.cache
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\bin\Debug\Mundo.exe.config
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\bin\Debug\Mundo.exe
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\bin\Debug\Mundo.pdb
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\obj\Debug\Mundo.exe
+C:\Users\Pipe\Dropbox\DropBoxVisualStudioProject\InterfazCliente\Mundo\obj\Debug\Mundo.pdb
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.exe.config
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.exe
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.pdb
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.csproj.ResolveComReference.cache
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.exe
+C:\Users\N.David\Dropbox\EasyHour Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.pdb
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.exe.config
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.exe
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\bin\Debug\Mundo.pdb
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.csproj.ResolveComReference.cache
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.exe
+C:\Users\Pipe\Desktop\InterfazCliente\Mundo\obj\Debug\Mundo.pdb
+A:\C#\InterfazCliente\Mundo\bin\Debug\Mundo.exe.config
+A:\C#\InterfazCliente\Mundo\bin\Debug\Mundo.exe
+A:\C#\InterfazCliente\Mundo\bin\Debug\Mundo.pdb
+A:\C#\InterfazCliente\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+A:\C#\InterfazCliente\Mundo\obj\Debug\Mundo.csproj.ResolveComReference.cache
+A:\C#\InterfazCliente\Mundo\obj\Debug\Mundo.exe
+A:\C#\InterfazCliente\Mundo\obj\Debug\Mundo.pdb

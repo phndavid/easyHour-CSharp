@@ -1,0 +1,2265 @@
+[
+	{
+ 	"semestre":"1",
+	"materia":"Álgebra y funciones",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"QUINTERO LONDOÑO CARLOS ALBERTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"103A"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"103A"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MARTINEZ GRISALES MARIA EUGENIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"103A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"103A"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"BONILLA MEDINA MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"104A"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"104A"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"QUINTERO LONDOÑO CARLOS ALBERTO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"104A"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"104A"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"BONILLA MEDINA MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"104A"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"104A"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"BONILLA MEDINA MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"103A"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"108A"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"ALVAREZ SERNA GIOVANNI MOISES",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"103A"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"108A"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"JIMENEZ COLLAZOS LUZ ELENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"103A"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"108A"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"CUARTAS RODRIGUEZ CESAR AUGUSTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"103A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"103A"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"GAMARRA PALACIOS JOSE LUIS",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"104A"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"102A"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"POSSO GOMEZ JESUS FERNANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"103A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"103A"}
+			]
+		},	
+		{	"id":"23",		
+			"profesor":"AZCARATE MESA LUIS FERNANDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"104A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"104A"}
+			]
+		},	
+		{	"id":"25",		
+			"profesor":"CASTILLO PONCE ROCIO DE LOS ANGELES",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"104A"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"104A"}
+			]
+		},	
+		{	"id":"27",		
+			"profesor":"DELGADO ESCOBAR REMIGIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"103A"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"103A"}
+			]
+		},	
+		{	"id":"29",		
+			"profesor":"GAMARRA PALACIOS JOSE LUIS",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"104A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"102A"}
+			]
+		},	
+		{	"id":"31",		
+			"profesor":"LOPEZ OSORIO LINDA ERIKA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"103A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"108A"}
+			]
+		},	
+		{	"id":"33",		
+			"profesor":"MORA MARTINEZ HUMBERTO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"103A"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"103A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"108A"}
+			]
+		},	
+		{	"id":"35",		
+			"profesor":"QUINTERO LONDOÑO CARLOS ALBERTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"104A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"102A"}
+			]
+		},	
+		{	"id":"37",		
+			"profesor":"CUARTAS RODRIGUEZ CESAR AUGUSTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"104A"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"102A"}
+			]
+		},	
+		{	"id":"39",		
+			"profesor":"MARTINEZ GRISALES MARIA EUGENIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"104A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"104A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"102A"}
+			]
+		},	
+		{	"id":"41",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"105A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"105A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"105A"}
+			]
+		},	
+		{	"id":"43",		
+			"profesor":"ALVAREZ PAYAN WILSON ALBERTO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"105A"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"105A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"105A"}
+			]
+		},	
+		{	"id":"45",		
+			"profesor":"LOPEZ OSORIO LINDA ERIKA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"105A"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"105A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"105A"}
+			]
+		},	
+		{	"id":"47",		
+			"profesor":"JIMENEZ COLLAZOS LUZ ELENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Comunicación escrita I",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"IGLESIAS DAVILA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1130", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1130", "salon":"202D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"IGLESIAS DAVILA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"830", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"830", "salon":"202D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"PENAGOS TRUJILLO JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1130", "horaFin":"1300", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"1130", "horaFin":"1300", "salon":"202D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"CASTAÑO LORA ALICE",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"830", "salon":"202D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"ZUÑIGA AMAYA JUAN CAMILO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1730", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1730", "salon":"202D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"ALZATE OCHOA GABRIEL JAIME",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1530", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1530", "salon":"202D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"PENAGOS TRUJILLO JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1530", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1530", "salon":"202D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"ARENAS HERNANDEZ KARINA ALEJANDRA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1530", "salon":"204D"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1530", "salon":"204D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"ALZATE OCHOA GABRIEL JAIME",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1730", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1730", "salon":"202D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"HOYOS MAZUERA MARIA XIMENA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1130", "horaFin":"1300", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"1130", "horaFin":"1300", "salon":"202D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"IGLESIAS DAVILA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"830", "horaFin":"1000", "salon":"202D"},
+				{"dia":"Jueves", "horaInicio":"830", "horaFin":"1000", "salon":"202D"}
+			]
+		},	
+		{	"id":"23",		
+			"profesor":"IDROBO FIGUEROA JAMES EMIRO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1000", "horaFin":"1130", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"1000", "horaFin":"1130", "salon":"202D"}
+			]
+		},	
+		{	"id":"25",		
+			"profesor":"CASTAÑO LORA ALICE",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"830", "horaFin":"1000", "salon":"202D"},
+				{"dia":"Viernes", "horaInicio":"830", "horaFin":"1000", "salon":"202D"}
+			]
+		},	
+		{	"id":"27",		
+			"profesor":"PENAGOS TRUJILLO JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1530", "salon":"201D"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1530", "salon":"201D"}
+			]
+		},	
+		{	"id":"29",		
+			"profesor":"ROLDAN VIRGEN BEATRIZ CECILIA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1530", "horaFin":"1700", "salon":"204D"},
+				{"dia":"Miercoles", "horaInicio":"1530", "horaFin":"1700", "salon":"204D"}
+			]
+		},	
+		{	"id":"31",		
+			"profesor":"FRANCO MARCELO GABRIEL",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1130", "salon":"201D"},
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1130", "salon":"201D"}
+			]
+		},	
+		{	"id":"33",		
+			"profesor":"MOLANO BARONA LIGNI",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1130", "horaFin":"1300", "salon":"201D"},
+				{"dia":"Jueves", "horaInicio":"1130", "horaFin":"1300", "salon":"201D"}
+			]
+		},	
+		{	"id":"35",		
+			"profesor":"ANAYA JIMENEZ JOHN DIDIER",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"830", "salon":"201D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"201D"}
+			]
+		},	
+		{	"id":"37",		
+			"profesor":"ZUÑIGA AMAYA JUAN CAMILO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1730", "salon":"201D"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1730", "salon":"201D"}
+			]
+		},	
+		{	"id":"39",		
+			"profesor":"IDROBO FIGUEROA JAMES EMIRO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"830", "horaFin":"1000", "salon":"201D"},
+				{"dia":"Miercoles", "horaInicio":"830", "horaFin":"1000", "salon":"201D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Fundamentos de Derecho Constitucional",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"URRIAGO GALLARDO JUAN FERNANDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"830", "salon":"107D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"107D"}
+			]
+		},	
+		{	"id":"2",		
+			"profesor":"FIGUEROA GOMEZ LUZ HELENA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1830", "horaFin":"2130", "salon":"105C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"VALERO LOPEZ HECTOR ANDRES",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1000", "horaFin":"1130", "salon":"105D"},
+				{"dia":"Viernes", "horaInicio":"1000", "horaFin":"1130", "salon":"105D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"DELGADO ESGUERRA CAROLINA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"105D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"830", "salon":"105D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"BUCHELY IBARRA LINA FERNANDA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1130", "horaFin":"1300", "salon":"105D"},
+				{"dia":"Viernes", "horaInicio":"1130", "horaFin":"1300", "salon":"105D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"VALERO LOPEZ HECTOR ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1530", "salon":"105D"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1530", "salon":"105D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"ROJAS MARROQUIN ABDON MAURICIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1130", "salon":"105D"},
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1130", "salon":"105D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"SOLANO GOMEZ DIANA MARCELA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"830", "horaFin":"1000", "salon":"105D"},
+				{"dia":"Jueves", "horaInicio":"830", "horaFin":"1000", "salon":"105D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"TORO CADAVID SANTIAGO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1130", "horaFin":"1300", "salon":"105D"},
+				{"dia":"Jueves", "horaInicio":"1130", "horaFin":"1300", "salon":"105D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"SOLANO GOMEZ DIANA MARCELA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1530", "horaFin":"1700", "salon":"105D"},
+				{"dia":"Jueves", "horaInicio":"1530", "horaFin":"1700", "salon":"105D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"DELGADO ESGUERRA CAROLINA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"830", "horaFin":"1000", "salon":"105D"},
+				{"dia":"Viernes", "horaInicio":"830", "horaFin":"1000", "salon":"105D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"BUITRAGO RESTREPO CLAUDIA MARIA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1830", "horaFin":"2130", "salon":"105C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Habilidades básicas en computación",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"1000", "salon":"404D"}
+			]
+		},	
+		{	"id":"2",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"1000", "salon":"404D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1000", "horaFin":"1300", "salon":"404D"}
+			]
+		},	
+		{	"id":"4",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1000", "horaFin":"1300", "salon":"404D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"900", "horaFin":"1200", "salon":"302C"}
+			]
+		},	
+		{	"id":"6",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"900", "horaFin":"1200", "salon":"302C"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1200", "horaFin":"1500", "salon":"302C"}
+			]
+		},	
+		{	"id":"8",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1200", "horaFin":"1500", "salon":"302C"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1500", "horaFin":"1800", "salon":"302C"}
+			]
+		},	
+		{	"id":"10",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1500", "horaFin":"1800", "salon":"302C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Introducción a las TIC",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"CUELLAR QUIÑONES JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"306D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Lógica y argumentación",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"SANCLEMENTE TRUJILLO JAIME ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"109A"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"109A"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"RAMIREZ AGUDELO JIMY NELSON",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"108A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"108A"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"RODRIGUEZ TELLEZ DIEGO ANDRES",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"109A"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"SANCLEMENTE TRUJILLO JAIME ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"109A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"109A"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"SANCLEMENTE TRUJILLO JAIME ANDRES",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"109A"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"VALDES TORO JULIAN MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"108A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"108A"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"GONZALEZ LOPEZ FABIAN ANDRES",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"108A"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"108A"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"RAMIREZ AGUDELO JIMY NELSON",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"109A"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"RODRIGUEZ TELLEZ DIEGO ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"109A"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"109A"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"VALDES TORO JULIAN MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"108A"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"108A"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"SANCLEMENTE TRUJILLO JAIME ANDRES",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"109A"}
+			]
+		},	
+		{	"id":"23",		
+			"profesor":"VALDES TORO JULIAN MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"108A"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"108A"}
+			]
+		},	
+		{	"id":"25",		
+			"profesor":"VALDES TORO JULIAN MAURICIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"108A"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"108A"}
+			]
+		},	
+		{	"id":"27",		
+			"profesor":"GONZALEZ LOPEZ FABIAN ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"109A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"109A"}
+			]
+		},	
+		{	"id":"29",		
+			"profesor":"VELASCO VILLAREAL LUCIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"108A"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"108A"}
+			]
+		},	
+		{	"id":"31",		
+			"profesor":"VELASCO VILLAREAL LUCIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"108A"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"108A"}
+			]
+		},	
+		{	"id":"33",		
+			"profesor":"RODRIGUEZ TELLEZ DIEGO ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"108A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"108A"}
+			]
+		},	
+		{	"id":"35",		
+			"profesor":"RAMIREZ AGUDELO JIMY NELSON",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"108A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"108A"}
+			]
+		},	
+		{	"id":"37",		
+			"profesor":"RAMIREZ AGUDELO JIMY NELSON",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"109A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"109A"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Proyecto ÍCARO-Curso formal de metodolog",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MARIN FERNANDEZ ANA CRISTINA",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"800", "horaFin":"1400", "salon":"306L"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"800", "horaFin":"1400", "salon":"307L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"1",
+	"materia":"Proyecto Papiro - Programa de acompañami",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"104C"},
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"110D"},
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"104C"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"109D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"112C"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"110C"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"207D"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"110C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"101D"},
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"101D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"106D"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"2",
+	"materia":"Álgebra lineal",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"SOSA AGUIRRE URAM ANIBAL",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"102A"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"102A"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"ACEVEDO ROA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"102A"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"102A"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"GARZON AHUMADA CARLOS ALBERTO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"106A"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"106A"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"2",
+	"materia":"Algoritmos y programación I",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"JOJOA LOPEZ INGRI LORENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"830", "salon":"406D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"406D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"202C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"JOJOA LOPEZ INGRI LORENA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"830", "salon":"406D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"830", "salon":"406D"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"202C"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"QUINTERO VILLAREAL LINA MARCELA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"830", "salon":"405D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"405D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"202C"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"LONDOÑO ACOSTA GUILLERMO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"830", "horaFin":"1000", "salon":"405D"},
+				{"dia":"Miercoles", "horaInicio":"830", "horaFin":"1000", "salon":"405D"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"202C"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"FRANCO MARULANDA LILIANA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1730", "salon":"104C"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1730", "salon":"104C"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"202C"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"VALDERRAMA CUADROS CAMILO ERNESTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"830", "horaFin":"1000", "salon":"406D"},
+				{"dia":"Jueves", "horaInicio":"830", "horaFin":"1000", "salon":"406D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"206C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"2",
+	"materia":"Cálculo una variable",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"YAKER AGUDELO HENDEL",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"102A"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"102A"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"800", "salon":"108C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"YAKER AGUDELO HENDEL",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"102A"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"102A"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1000", "salon":"108C"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"ACEVEDO ROA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"102A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"102A"},
+				{"dia":"Viernes", "horaInicio":"800", "horaFin":"900", "salon":"108C"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"JARAMILLO GUERRERO OMAR DAVID",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"201A"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"201A"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1500", "salon":"201A"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"JARAMILLO GUERRERO OMAR DAVID",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"201A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"201A"},
+				{"dia":"Viernes", "horaInicio":"1700", "horaFin":"1800", "salon":"201A"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"ACEVEDO ROA RICARDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"102A"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"102A"},
+				{"dia":"Viernes", "horaInicio":"1000", "horaFin":"1100", "salon":"108C"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"CARDONA VELASQUEZ ELIAS",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"201A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"201A"},
+				{"dia":"Viernes", "horaInicio":"1500", "horaFin":"1600", "salon":"201A"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"2",
+	"materia":"Comunicación oral y escrita II",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MANZANO VILLAREAL MIRYAM ROCIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"209D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"209D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"HOYOS VICTORIA LUISA EFIGENIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"205D"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"205D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"HOYOS MAZUERA MARIA XIMENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"205D"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"205D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"ORTEGA GARCIA OSCAR EDUARDO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"205D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"205D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"MOLANO BARONA LIGNI",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"205D"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"205D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"MOLANO BARONA LIGNI",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"205D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"205D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"ORTEGA GARCIA OSCAR EDUARDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"205D"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"205D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"ORTEGA GARCIA OSCAR EDUARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"205D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"205D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"IDROBO FIGUEROA JAMES EMIRO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"205D"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"205D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"RODRIGUEZ CALLE HILDER JAMES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"205D"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"205D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"IDROBO FIGUEROA JAMES EMIRO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"208D"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"208D"}
+			]
+		},	
+		{	"id":"23",		
+			"profesor":"MOTATO MOSCOSO JESUS ALFREDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"208D"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"208D"}
+			]
+		},	
+		{	"id":"25",		
+			"profesor":"VELASCO VILLAREAL LUCIA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"208D"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"208D"}
+			]
+		},	
+		{	"id":"27",		
+			"profesor":"RODRIGUEZ CALLE HILDER JAMES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"205D"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"205D"}
+			]
+		},	
+		{	"id":"29",		
+			"profesor":"MOTATO MOSCOSO JESUS ALFREDO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"208D"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"208D"}
+			]
+		},	
+		{	"id":"31",		
+			"profesor":"MUÑOZ JOVEN LUIS ARMANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"208D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"208D"}
+			]
+		},	
+		{	"id":"33",		
+			"profesor":"MANZANO VILLAREAL MIRYAM ROCIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"208D"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"208D"}
+			]
+		},	
+		{	"id":"35",		
+			"profesor":"MANZANO VILLAREAL MIRYAM ROCIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"209D"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"209D"}
+			]
+		},	
+		{	"id":"37",		
+			"profesor":"MUÑOZ JOVEN LUIS ARMANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"209D"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"209D"}
+			]
+		},	
+		{	"id":"39",		
+			"profesor":"RODRIGUEZ CALLE HILDER JAMES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"209D"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"209D"}
+			]
+		},	
+		{	"id":"41",		
+			"profesor":"HOYOS VICTORIA LUISA EFIGENIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"208D"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"208D"}
+			]
+		},	
+		{	"id":"43",		
+			"profesor":"MANZANO VILLAREAL MIRYAM ROCIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"209D"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"209D"}
+			]
+		},	
+		{	"id":"45",		
+			"profesor":"VELASCO VILLAREAL LUCIA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"208D"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"208D"}
+			]
+		},	
+		{	"id":"47",		
+			"profesor":"VELASCO VILLAREAL LUCIA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"208D"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"208D"}
+			]
+		},	
+		{	"id":"49",		
+			"profesor":"RODRIGUEZ CALLE HILDER JAMES",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"208D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"208D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"2",
+	"materia":"Habilidades básicas en hojas electrónica",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"404D"}
+			]
+		},	
+		{	"id":"2",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"404D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"404D"}
+			]
+		},	
+		{	"id":"4",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"404D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"900", "horaFin":"1200", "salon":"203C"}
+			]
+		},	
+		{	"id":"6",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"900", "horaFin":"1200", "salon":"203C"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1200", "horaFin":"1500", "salon":"203C"}
+			]
+		},	
+		{	"id":"8",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1200", "horaFin":"1500", "salon":"203C"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1500", "horaFin":"1800", "salon":"203C"}
+			]
+		},	
+		{	"id":"10",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Sabado", "horaInicio":"1500", "horaFin":"1800", "salon":"203C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"2",
+	"materia":"Organizaciones",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"CORBELLETA ROJAS LUIGI FERNANDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"1000", "salon":"203D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"CORBELLETA ROJAS LUIGI FERNANDO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1000", "horaFin":"1300", "salon":"203D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"SILVA VALENCIA ANA MILENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1700", "salon":"203D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"CORBELLETA ROJAS LUIGI FERNANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"1000", "salon":"203D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"CORBELLETA ROJAS LUIGI FERNANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1300", "salon":"203D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"CRESPO RAZEG FARIDE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1700", "salon":"203D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"CORBELLETA ROJAS LUIGI FERNANDO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"1000", "salon":"203D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"CRESPO RAZEG FARIDE",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1000", "horaFin":"1300", "salon":"203D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"CRESPO RAZEG FARIDE",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1700", "salon":"203D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"VELASQUEZ VASQUEZ FRANCISCO ORLANDO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"1000", "salon":"203D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"AMEZQUITA SALAZAR JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"203D"}
+			]
+		},	
+		{	"id":"23",		
+			"profesor":"AMEZQUITA SALAZAR JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"203D"}
+			]
+		},	
+		{	"id":"25",		
+			"profesor":"AMEZQUITA SALAZAR JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"203D"}
+			]
+		},	
+		{	"id":"27",		
+			"profesor":"AMEZQUITA SALAZAR JUAN CARLOS",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1000", "horaFin":"1300", "salon":"203D"}
+			]
+		},	
+		{	"id":"29",		
+			"profesor":"CRESPO RAZEG FARIDE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1700", "salon":"203D"}
+			]
+		},	
+		{	"id":"31",		
+			"profesor":"JARAMILLO MEJIA MARTA CECILIA DE FATIMA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"1000", "salon":"204D"}
+			]
+		},	
+		{	"id":"33",		
+			"profesor":"VELASQUEZ VASQUEZ FRANCISCO ORLANDO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"204D"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"3",
+	"materia":"Algoritmos y programación II",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"VILLOTA GOMEZ ANGELA PATRICIA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"830", "salon":"408D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"830", "salon":"408D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"206C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"VALDERRAMA CUADROS CAMILO ERNESTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"830", "salon":"111C"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"830", "salon":"111C"},
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"206C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"3",
+	"materia":"Cálculo varias variables",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ACEVEDO ROA RICARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"106A"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"106A"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"YAKER AGUDELO HENDEL",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"102C"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"102C"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"CARDONA VELASQUEZ ELIAS",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"102C"},
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"102C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"3",
+	"materia":"Espacio de Laboratorio de Física",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MURILLO YEPES GUSTAVO",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"504L"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MURILLO YEPES GUSTAVO",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"504L"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"MARMOLEJO SCHMIDTT JUAN PABLO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"504L"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"MARMOLEJO SCHMIDTT JUAN PABLO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"504L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"3",
+	"materia":"Física y Laboratorio",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MURILLO YEPES GUSTAVO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"106A"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"106A"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"GARCIA TRIANA HERNAN",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1600", "horaFin":"1800", "salon":"106A"},
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"106A"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"FERNANDEZ LOPEZ MARIA ELENA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"106D"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"106D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"3",
+	"materia":"Principios de Economía",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ARBOLEDA HOME HENRY",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"103D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"HERNANDEZ CABRERA MARIA FERNANDA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"103D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"HERNANDEZ CABRERA MARIA FERNANDA",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1700", "salon":"201D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"HERRERA GIRALDO MAGALY FARIDE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"107D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"BOCANEGRA OCHOA GIPSY ELIANA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1830", "horaFin":"2130", "salon":"207L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"3",
+	"materia":"Teoría de probabilidades",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ARROYO ALMANZA ALONSO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"104B"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"104B"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"ARROYO ALMANZA ALONSO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"104B"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"104B"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"VIAFARA WILLIAM",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"104B"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"104B"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"CORRALES VELASCO RUBEN DARIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"104B"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"104B"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"CORRALES VELASCO RUBEN DARIO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"104B"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"104B"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"104B"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"104B"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"GONZALEZ IPIA MANUEL SANTOS",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"104B"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"104B"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"4",
+	"materia":"Algoritmos y Estructuras de datos",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"VALDERRAMA CUADROS CAMILO ERNESTO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"930", "horaFin":"1100", "salon":"102D"},
+				{"dia":"Miercoles", "horaInicio":"930", "horaFin":"1100", "salon":"102D"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"203C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Ecuaciones diferenciales",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"YAKER AGUDELO HENDEL",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"102C"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"102C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"SOSA AGUIRRE URAM ANIBAL",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1700", "horaFin":"1900", "salon":"103D"},
+				{"dia":"Jueves", "horaInicio":"1700", "horaFin":"1900", "salon":"103D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Electricidad-magnetismo y Laboratorio",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MURILLO YEPES GUSTAVO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1230", "salon":"101D"},
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1230", "salon":"101D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"GARCIA TRIANA HERNAN",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1830", "salon":"102C"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1830", "salon":"102C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Espacio de Laboratorio de Electricidad y",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MARMOLEJO SCHMIDTT JUAN PABLO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"503L"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MARMOLEJO SCHMIDTT JUAN PABLO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1600", "horaFin":"1800", "salon":"503L"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"MARMOLEJO SCHMIDTT JUAN PABLO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"503L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Espacio de Laboratorio de Lógica digital",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MORENO VIVEROS VALENTINA",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"900", "horaFin":"1100", "salon":"501L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Inferencia estadística",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"SALAMANCA COLLAZOS FABIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"108C"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"108C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"GONZALEZ IPIA MANUEL SANTOS",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"108C"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"108C"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"FLOREZ ELVIRA LILIANA JANETH",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"OSPINA GALINDEZ JOHANN ALEXIS",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"108C"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"108C"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"MARIN ARRENDONDO NORBEY",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"MARIN ARRENDONDO NORBEY",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1600", "salon":"108C"},
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"108C"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"RAMIREZ GOMEZ GERARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1600", "horaFin":"1800", "salon":"108C"},
+				{"dia":"Jueves", "horaInicio":"1600", "horaFin":"1800", "salon":"108C"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"RAMIREZ GOMEZ GERARDO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"108C"},
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"108C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"4",
+	"materia":"Lógica digital y Laboratorio",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"CAMPO OSSA DANIEL DARIO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"501L"},
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"900", "salon":"501L"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"5",
+	"materia":"Competencias administrativas básicas",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"QUINTERO GARCIA JUANA MARIA",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1000", "horaFin":"1300", "salon":"209D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"5",
+	"materia":"Electrónica y Laboratorio",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"DIAZ ANDRADE CARLOS ANDRES",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1230", "salon":"501L"},
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1230", "salon":"503L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"5",
+	"materia":"Espacio de Laboratorio de Electrónica",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ALVAREZ QUIÑONEZ JUAN MANUEL",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1400", "horaFin":"1600", "salon":"503L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"5",
+	"materia":"Liderazgo",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"GARTNER VILLA ANGELA MARIA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MEDINA LORZA AIDA FLORENCIA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"CADENA GARCIA MARIA JULIANA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"1000", "salon":"211D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"DEVIS REY IVONNE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"211D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"MEDINA LORZA AIDA FLORENCIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"CUJAR CUELLAR SILVIA HELENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1900", "horaFin":"2200", "salon":"102D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"WILLMAN CARVAJAL SANDRA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"103D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1900", "horaFin":"2200", "salon":"102D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"5",
+	"materia":"Programación en Red",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"QUINTERO VILLAREAL LINA MARCELA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"202C"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"202C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"5",
+	"materia":"Señales y sistemas",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"TASCON VIDARTE JOSE DAVID",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1800", "horaFin":"2000", "salon":"501L"},
+				{"dia":"Jueves", "horaInicio":"1800", "horaFin":"2000", "salon":"501L"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"6",
+	"materia":"Comunicaciones digitales",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"LLANO RAMIREZ GONZALO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"900", "salon":"501L"},
+				{"dia":"Jueves", "horaInicio":"700", "horaFin":"900", "salon":"501L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"6",
+	"materia":"Ingeniería económica",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MAFLA QUIJANO LUIS ALBERTO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"202C"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MAFLA QUIJANO LUIS ALBERTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"202C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"6",
+	"materia":"Interfaces y arquitectura de hardware y",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"DIAZ ANDRADE CARLOS ANDRES",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"1600", "horaFin":"1800", "salon":"501L"},
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1600", "salon":"PEN"},
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"PEN"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"6",
+	"materia":"Redes de computadores I",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ULLOA VILLEGAS GONZALO VICENTE",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"407D"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"7",
+	"materia":"Espacio de Laboratorio de Redes de",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"ARTEAGA ARCE ADRIANA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1400", "horaFin":"1600", "salon":"306C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"7",
+	"materia":"Ingeniería económica",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MAFLA QUIJANO LUIS ALBERTO",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"202C"},
+				{"dia":"Viernes", "horaInicio":"1100", "horaFin":"1300", "salon":"108C"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MAFLA QUIJANO LUIS ALBERTO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"105A"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"202C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"7",
+	"materia":"Procesamiento digital de señales",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"NAVARRO CADAVID ANDRES",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1000", "horaFin":"1300", "salon":"501L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"7",
+	"materia":"Redes de computadores II",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"CORTES TORRES FABIAN LEONARDO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"PEN"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"7",
+	"materia":"Sistemas operacionales",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"BARRAGAN CALDERON DANIEL ANTONIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"204C"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"202C"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"8",
+	"materia":"Administración de plataformas y segurida",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"NARVAEZ BARCO CESAR AUGUSTO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1800", "horaFin":"2000", "salon":"306C"},
+				{"dia":"Miercoles", "horaInicio":"1800", "horaFin":"2000", "salon":"306C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"8",
+	"materia":"Conmutación",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MILLAN CIFUENTES ANDRES FELIPE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1100", "salon":"109C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"8",
+	"materia":"Creatividad empresarial",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"LOZANO POSSO MELQUICEDEC",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"110D"},
+				{"dia":"Miercoles", "horaInicio":"700", "horaFin":"900", "salon":"110D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"LOZANO POSSO MELQUICEDEC",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"900", "horaFin":"1100", "salon":"110D"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"110D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"OTERO VERGARA ANDRES FELIPE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1100", "horaFin":"1300", "salon":"110D"},
+				{"dia":"Miercoles", "horaInicio":"1100", "horaFin":"1300", "salon":"110D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"ALVAREZ VENEGAS LUIS MIGUEL",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"900", "horaFin":"1100", "salon":"110D"},
+				{"dia":"Jueves", "horaInicio":"900", "horaFin":"1100", "salon":"110D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"DOMINGUEZ VALENCIA CARLOS FERNANDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1100", "horaFin":"1300", "salon":"110D"},
+				{"dia":"Jueves", "horaInicio":"1100", "horaFin":"1300", "salon":"110D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"8",
+	"materia":"Liderazgo",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"GARTNER VILLA ANGELA MARIA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"MEDINA LORZA AIDA FLORENCIA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"CADENA GARCIA MARIA JULIANA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"1000", "salon":"211D"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"DEVIS REY IVONNE",
+			"clases":
+			[
+				{"dia":"Viernes", "horaInicio":"700", "horaFin":"1000", "salon":"211D"}
+			]
+		},	
+		{	"id":"9",		
+			"profesor":"MEDINA LORZA AIDA FLORENCIA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"11",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Miercoles", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"13",		
+			"profesor":"CUJAR CUELLAR SILVIA HELENA",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1900", "horaFin":"2200", "salon":"102D"}
+			]
+		},	
+		{	"id":"15",		
+			"profesor":"WILLMAN CARVAJAL SANDRA",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1000", "horaFin":"1300", "salon":"211D"}
+			]
+		},	
+		{	"id":"17",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1000", "horaFin":"1300", "salon":"103D"}
+			]
+		},	
+		{	"id":"19",		
+			"profesor":"CAJIAO SAENZ JUANITA",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"211D"}
+			]
+		},	
+		{	"id":"21",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1900", "horaFin":"2200", "salon":"102D"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"8",
+	"materia":"Programa desarrollo profesional - TEL",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"1000", "salon":"PEN"}
+			]
+		},	
+		{	"id":"3",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1400", "horaFin":"1700", "salon":"PEN"}
+			]
+		},	
+		{	"id":"5",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"700", "horaFin":"1000", "salon":"PEN"}
+			]
+		},	
+		{	"id":"7",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1400", "horaFin":"1700", "salon":"PEN"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"8",
+	"materia":"Proyecto de grado I - TEL",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"LLANO RAMIREZ GONZALO",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1700", "salon":"PEN"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"9",
+	"materia":"Diseño de protocolos",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"MADRID MOLINA JUAN MANUEL",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"700", "horaFin":"900", "salon":"501L"},
+				{"dia":"Miercoles", "horaInicio":"900", "horaFin":"1100", "salon":"501L"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"9",
+	"materia":"Planeación y gestión de redes",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"CORTES TORRES FABIAN LEONARDO",
+			"clases":
+			[
+				{"dia":"Martes", "horaInicio":"1800", "horaFin":"2100", "salon":"306C"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"9",
+	"materia":"Proyecto de grado II - TEL",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1400", "horaFin":"1600", "salon":"PEN"}
+			]
+		}]
+	},
+	{
+ 	"semestre":"9",
+	"materia":"Sistemas distribuidos",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"BARRAGAN CALDERON DANIEL ANTONIO",
+			"clases":
+			[
+				{"dia":"Lunes", "horaInicio":"1800", "horaFin":"2000", "salon":"307C"},
+				{"dia":"Miercoles", "horaInicio":"1800", "horaFin":"2000", "salon":"307C"}
+			]
+		}]
+	}
+,	{
+ 	"semestre":"10",
+	"materia":"Práctica empresarial - TEL",
+	"grupos":[	
+		{	"id":"1",		
+			"profesor":"PENDIENTE PENDIENTE",
+			"clases":
+			[
+				{"dia":"Jueves", "horaInicio":"1900", "horaFin":"2200", "salon":"PEN"}
+			]
+		}]
+	}
+]

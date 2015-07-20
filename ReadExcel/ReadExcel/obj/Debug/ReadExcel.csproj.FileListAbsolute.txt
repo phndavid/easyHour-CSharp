@@ -1,0 +1,7 @@
+A:\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+A:\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+A:\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+A:\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+A:\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+A:\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+A:\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
