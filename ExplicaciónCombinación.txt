@@ -1,0 +1,27 @@
+
+1. Iniciamos con un ArrayList de horarios que en cada casilla contiene solo
+una materia de la lista de materias - La llamamos "inicial".
+
+2. Por cada horario de esa lista inicial de horarios
+se crearán nuevos horarios que serán agregados a la posición corres-
+pondiente del -ArrayList<Horario>[] finales-. "finales" es una arreglo de
+ArrayList que en cada casilla contiene los horarios con la cantidad de 
+materias disponibles. En la casilla 6 de finales se encuentran todos los
+horarios con 6 materias.
+
+3.La combinación consiste en tomar cada horario de la lista inicial y 
+agregarle un solo grupo (Grupo es un grupo de una materia EJ: Grupo 3 de Fisica)
+que sea validado. Este horario, despues de agregar el nuevo grupo, 
+se agrega en una lista temporal la cual finalmente será agregada en los 
+horarios finales en la posicion correspondiente.
+
+4. Toma la lista temporal y recursivamente la lee como la lista inicial
+del siguiente método. (La recursividad puede ser fácilmente eliminada.
+así evitamos ocupar mucho Stack)
+
+Al final se obtienen todas las combinaciones posibles de todos los horarios.
+Incluyendo horarios con una sola materia, hasta horarios que tienen una
+cantidad de materias que no superan ni el limite de materias de matricula
+permitidas ni la cantidad de créditos máximos permitidos.
+
+No repite combinaciones ni realiza combinaciones innsecesarias.

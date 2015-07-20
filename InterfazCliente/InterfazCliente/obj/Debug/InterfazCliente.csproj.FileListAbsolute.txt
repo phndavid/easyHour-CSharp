@@ -47,3 +47,7 @@ A:\C#\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.csprojResolveAss
 A:\C#\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.Form1.resources
 A:\C#\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.Properties.Resources.resources
 A:\C#\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.csproj.GenerateResource.Cache
+C:\Users\N.David\Documents\Git\EasyHour-CSharp\InterfazCliente\InterfazCliente\bin\Debug\InterfazCliente.exe.config
+C:\Users\N.David\Documents\Git\EasyHour-CSharp\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.csproj.ResolveComReference.cache
+C:\Users\N.David\Documents\Git\EasyHour-CSharp\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.exe
+C:\Users\N.David\Documents\Git\EasyHour-CSharp\InterfazCliente\InterfazCliente\obj\Debug\InterfazCliente.pdb
