@@ -1,5 +1,9 @@
 # EasyHour-C-
 EasyHour Functional Test in C#
+
+EasyHour es una aplicación web desarrollada con AngularJS que le permite al usuario fácilmente la creación y consulta de uno o varios horarios. El usuario es quien realizará de manera personalizada un listado máximo de ocho materias, que permitirán la creación de los horarios.
+En general, se espera que el usuario pueda crear, editar y personalizar a su gusto fácilmente un horario, evitando así el arduo  trabajo que involucra hacer esto mismo en una hoja de excel.
+
 ![ScreenShot](https://github.com/phndavid13/EasyHour-CSharp/blob/master/Mapa%20de%20navegaci%C3%B3n/principal.JPG)
 ![ScreenShot](https://github.com/phndavid13/EasyHour-CSharp/blob/master/Mapa%20de%20navegaci%C3%B3n/horarios.JPG)
 # Procedimiento para dar formato en excel a PDF generado por la Universidad ICESI
